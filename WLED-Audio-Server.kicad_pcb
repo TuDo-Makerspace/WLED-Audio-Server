@@ -225,7 +225,7 @@
 			(uuid "2b6d8bf7-06c1-40b2-808e-1768fd9a3983")
 		)
 		(embedded_fonts no)
-		(model "/home/patrick/Documents/kicad/7mm_SPDT/Push Button.step"
+		(model "3d/Push Button.step"
 			(offset
 				(xyz 5 5 9)
 			)
@@ -463,7 +463,7 @@
 			(uuid "1d9dd223-4e89-4570-a48e-55a4d03e81ff")
 		)
 		(embedded_fonts no)
-		(model "/home/patrick/Documents/kicad/3D/PJ320A/PJ320A.STEP"
+		(model "3d/PJ320A.STEP"
 			(offset
 				(xyz -0.3 -5.4 -12.1)
 			)
@@ -761,7 +761,7 @@
 			(uuid "a708e4f6-7d58-4827-b1f9-c1d3fc160c35")
 		)
 		(embedded_fonts no)
-		(model "/home/patrick/Documents/kicad/Benjimodular/3D/RK09K1130AH1.STEP"
+		(model "3d/RK09K1130AH1.STEP"
 			(offset
 				(xyz 7.25 -2.5 0)
 			)
@@ -1203,7 +1203,7 @@
 			(uuid "94f88c83-7327-40e5-9ae2-8e6ce95fef61")
 		)
 		(embedded_fonts no)
-		(model "/home/patrick/Documents/kicad/3D/PJ320A/PJ320A.STEP"
+		(model "3d/PJ320A.STEP"
 			(offset
 				(xyz -0.3 -5.4 -12.1)
 			)
@@ -2138,7 +2138,7 @@
 			(uuid "1651aa18-d2bc-4ac3-8788-70ac316833a5")
 		)
 		(embedded_fonts no)
-		(model "/home/patrick/Documents/kicad/3D/esp32_dev_kit_v1_asm.stp"
+		(model "3d/esp32_dev_kit_v1_asm.stp"
 			(offset
 				(xyz 0 25.3 11)
 			)
@@ -2149,7 +2149,7 @@
 				(xyz -0 -0 -180)
 			)
 		)
-		(model "/home/patrick/Documents/kicad/3D/Header_Female_single_15.STEP"
+		(model "3d/Header_Female_single_15.STEP"
 			(offset
 				(xyz -14 -21 8)
 			)
@@ -2160,7 +2160,7 @@
 				(xyz 90 -0 90)
 			)
 		)
-		(model "/home/patrick/Documents/kicad/3D/Header_Female_single_15.STEP"
+		(model "3d/Header_Female_single_15.STEP"
 			(offset
 				(xyz 11.5 -21 8)
 			)
