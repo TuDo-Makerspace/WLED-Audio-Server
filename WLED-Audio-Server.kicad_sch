@@ -2512,7 +2512,19 @@
 		)
 		(uuid "94fb742c-ad15-4cc1-9b80-ca9b71edd3cf")
 	)
-	(text "WLED Audio Server"
+	(text "+-----------+--------------+----------+\n| Net Label | Board Label  | GPIO No. |\n+-----------+--------------+----------+\n| AUDIO     | D33          | 33       |\n| PB        | D34          | 34       |\n+-----------+--------------+----------+"
+		(exclude_from_sim no)
+		(at 239.522 49.784 0)
+		(effects
+			(font
+				(face "DejaVu Sans Mono")
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d442b47f-c1f1-4df2-9015-2b17ea913e7b")
+	)
+	(text "WLED Audio Server - Rev 1.0.1"
 		(exclude_from_sim no)
 		(at 19.05 21.59 0)
 		(effects
@@ -3822,7 +3834,8 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer")
-		(at 96.52 115.57 90)
+		(at 96.52 115.57 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)

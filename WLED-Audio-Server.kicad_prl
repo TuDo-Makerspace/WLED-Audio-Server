@@ -59,7 +59,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "9x-WS2812-WLED-PCB.kicad_prl",
+    "filename": "WLED-Audio-Server.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
