@@ -16,6 +16,8 @@ Additionally, a push-button is provided, which can be assigned to a specific WLE
 
 Finally, a power LED is included to indicate when the device is powered on.
 
+The KiCAD files for the Schematic and PCB layout can be found in this repo.
+
 ## Firmware
 
 For enhanced audio-reactive capabilities, it is highly recommended to use the **[MoonModules fork of WLED](https://mm.kno.wled.ge/)** on both the audio server and all connected WLED devices. This fork includes additional features and optimizations specifically designed for audio-reactive setups.
