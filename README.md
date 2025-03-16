@@ -6,6 +6,8 @@ This compact device is designed to function as a WLED audio server. It analyzes 
 
 ## Hardware
 
+![Hardware showcase](showcase2.png)
+
 This device features two 3.5mm audio jacks: one for input and one for through-output (orientation is interchangable). This allows the server to be placed in-line between an audio source and a speaker system.
 
 A potentiometer is used to adjust the gain of the audio input. This lets you amplify quieter signals or reduce the gain for louder ones to clipping. To help with this, a small red clipping LED is included.
